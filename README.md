@@ -2,7 +2,7 @@
 <h2 height="200px" align="center">Hey! I am  clearmann <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
 <h2 align="center">A passionate Golang backend development engineer from China</h3>
 </p>
-![亮色](https://raw.githubusercontent.com/clearmann/clearmann/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/clearmann/clearmann/output/github-contribution-grid-snake.svg"/>
 
 <!--
 **clearmann/clearmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
